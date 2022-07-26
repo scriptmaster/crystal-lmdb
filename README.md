@@ -55,4 +55,5 @@ See also the `examples` folder.
 
 ## Contributors
 
-- [Romain Franceschini](https://github.com/RomainFranceschini) - creator and maintainer
+- [Romain Franceschini](https://github.com/RomainFranceschini) - creator
+- scriptmaster - Forked Contributer

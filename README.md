@@ -22,8 +22,8 @@ This wrapper tries to add as little overhead as possible, by avoiding copy and a
 ```yaml
 dependencies:
   lmdb:
-    github: rumenzu/crystal-lmdb
-    version: 0.1.0
+    github: scriptmaster/crystal-lmdb
+    branch: master
 ```
 2. Run `shards install`
 
